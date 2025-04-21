@@ -1,4 +1,5 @@
-## Hi there 👋
+## Computer Science student at IME USP
+I'm currently working as FullStack Developer at [USPolis](https://www.uspolis.com.br/index)
 
 <!--
 **gdvcamargo/gdvcamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
