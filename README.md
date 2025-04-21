@@ -1,4 +1,4 @@
-## Computer Science student at IME USP
+## About me
 I'm currently working as FullStack Developer at [USPolis](https://www.uspolis.com.br/index)
 
 <!--
