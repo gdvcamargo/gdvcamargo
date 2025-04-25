@@ -1,5 +1,11 @@
-## About me
-I'm currently working as FullStack Developer at [USPolis](https://www.uspolis.com.br/index)
+##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Gabriel
+- 👨‍🎓 I'm currently studying Computer Science at the University of São Paulo.
+- 🔨 I'm currently working as FullStack Developer at [USPolis](https://www.uspolis.com.br/index)
+- 🧠 I'm currently studing
+
+### Contacs
+- 📫 gabriel_camargo@usp.br
+- :lin
 
 <!--
 **gdvcamargo/gdvcamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
