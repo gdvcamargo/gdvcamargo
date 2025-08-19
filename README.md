@@ -1,7 +1,7 @@
 ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Gabriel
 - 👨‍🎓 I'm currently studying Computer Science at the University of São Paulo.
 - 🔨 I'm currently working as FullStack Developer at [USPolis](https://www.uspolis.com.br/index)
-- 🧠 I'm currently studing ML, IA, Algorithms and Numerical Analisys
+- 🧠 I'm currently studing Nonlinear Optimization, Algorithms Analysis, Concepts of PL and Algorithms in Graphs
 
 ### Contacs
 - 📫 gabriel_camargo@usp.br
